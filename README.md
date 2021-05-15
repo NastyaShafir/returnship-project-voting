@@ -84,6 +84,7 @@ Since we want to have both the frontend and backend combined into a single proje
   (venv) $ pip install Flask
   (venv) $ pip install flask_sqlalchemy
   (venv) $ pip install flask_migrate
+  (venv) $ pip install SQLAlchemy
 ```
 3. To get started,
   - in `returnship-project-voting/api` run
